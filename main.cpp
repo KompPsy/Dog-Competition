@@ -342,13 +342,6 @@ void Circular_Doubly_Linked_List::Printanode()
     return;
 }
 
-/************************************************************************
-30 points
-
-You write the code for function Repalcenode()
-
-*************************************************************************/
-
 void Circular_Doubly_Linked_List::Replacenode() {
     Nodeptr p,q;
     int tracker;
