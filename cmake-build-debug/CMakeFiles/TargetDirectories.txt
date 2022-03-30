@@ -1,0 +1,3 @@
+/tmp/tmp.T6NouvRkdk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.T6NouvRkdk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.T6NouvRkdk/cmake-build-debug/CMakeFiles/Dog_Competition.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Dog_Competition.dir/main.cpp.o  -o Dog_Competition 
